@@ -86,12 +86,12 @@
   },
   {
     "id": "study-in-canada-pgwp-student-hub-forum-6",
-    "title": "The Grad Cafe Admissions Forum",
-    "platform": "Forum",
+    "title": "r/GradSchool Academic Community",
+    "platform": "Reddit",
     "category": "Admissions",
     "memberCount": "180,000+ members",
     "description": "Admissions result tracking database, applicant stats, and discipline-specific forums for graduate programs worldwide.",
-    "joinUrl": "https://forum.thegradcafe.com",
+    "joinUrl": "https://www.reddit.com/r/GradSchool/",
     "tags": [
       "gradcafe",
       "admissions",
@@ -261,7 +261,7 @@
     "category": "Tech Discussion",
     "memberCount": "90,000+ members",
     "description": "Global discussion server for engineering disciplines, scientific methodology, and emerging tech.",
-    "joinUrl": "https://discord.gg/technology",
+    "joinUrl": "https://discord.gg/tech",
     "tags": [
       "technology",
       "discord",
@@ -392,12 +392,12 @@
   },
   {
     "id": "study-in-canada-pgwp-student-hub-forum-24",
-    "title": "The Grad Cafe Admissions Forum",
-    "platform": "Forum",
+    "title": "r/PhD Doctoral Research Community",
+    "platform": "Reddit",
     "category": "Admissions",
     "memberCount": "180,000+ members",
     "description": "Admissions result tracking database, applicant stats, and discipline-specific forums for graduate programs worldwide.",
-    "joinUrl": "https://forum.thegradcafe.com",
+    "joinUrl": "https://www.reddit.com/r/PhD/",
     "tags": [
       "gradcafe",
       "admissions",
