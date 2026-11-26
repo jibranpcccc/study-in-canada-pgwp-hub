@@ -1,5 +1,24 @@
 [
   {
+    "id": "study-in-canada-pgwp-student-hub-discord-10",
+    "title": "Nomads & Remote Workers Discord",
+    "platform": "Discord",
+    "category": "Remote Lifestyle",
+    "memberCount": "42,000+ members",
+    "description": "Real-time chat connecting nomads across Europe, Southeast Asia, and the Americas with local city channels.",
+    "joinUrl": "https://discord.gg/nomads",
+    "tags": [
+      "nomads",
+      "discord",
+      "travel",
+      "community"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "study-in-canada-pgwp-student-hub-reddit-9",
     "title": "r/cscareerquestions Advisory",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -456,24 +475,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "id": "study-in-canada-pgwp-student-hub-discord-10",
-    "title": "Nomads & Remote Workers Discord",
-    "platform": "Discord",
-    "category": "Remote Lifestyle",
-    "memberCount": "42,000+ members",
-    "description": "Real-time chat connecting nomads across Europe, Southeast Asia, and the Americas with local city channels.",
-    "joinUrl": "https://discord.gg/nomads",
-    "tags": [
-      "nomads",
-      "discord",
-      "travel",
-      "community"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
     "id": "study-in-canada-pgwp-student-hub-telegram-11",
     "title": "Remote Tech Jobs Channel",
     "platform": "Telegram",
@@ -630,24 +631,6 @@
       "admissions",
       "phd",
       "forum"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "study-in-canada-pgwp-student-hub-discord-28",
-    "title": "Nomads & Remote Workers Discord",
-    "platform": "Discord",
-    "category": "Remote Lifestyle",
-    "memberCount": "42,000+ members",
-    "description": "Real-time chat connecting nomads across Europe, Southeast Asia, and the Americas with local city channels.",
-    "joinUrl": "https://discord.gg/nomads",
-    "tags": [
-      "nomads",
-      "discord",
-      "travel",
-      "community"
     ],
     "verified": true,
     "featured": false,
